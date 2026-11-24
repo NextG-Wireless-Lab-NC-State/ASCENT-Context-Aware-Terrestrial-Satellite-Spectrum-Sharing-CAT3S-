@@ -18,9 +18,6 @@ Affiliation: NextG Wireless Lab, NC State University
 4. Run the simulator.py which will analyze the I/N for all the MBSs and dynamically optimize the multi-antenna MBSs’ parameters using a polynomial time complexity MBS control algorithm.
 5. Run the app.py
 
-#Reference:
-
-[1] Project - "Context-aware-Spectrum-Coexistence-Analyzer"- URL: https://github.com/NextG-Wireless-Lab-Mason/Context-aware-Spectrum-Coexistence-Analyzer.
 
 #Acknowledgement:
 
